@@ -1,0 +1,25 @@
+h1{
+  text-decoration: underline;
+  font-style: courier;
+  text-shadow: 2px 2px white;
+  font-size: 60px;
+  background-color: #059965;
+  text-align: center;
+}
+p{
+  font-size: 30px;
+  color: black;
+  text-shadow: 1px 1px white;
+  background-color: #009999;
+  text-align: center;
+}
+.what{
+  text-decoration: overline;
+}
+.why{
+  text-decoration: line-through;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
